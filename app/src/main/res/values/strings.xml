@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Hyderabad Guide</string>
+
+    <string name="overviewHeader">Overview</string>
+    <string name="historyHeader">History</string>
+
+    <string name="overview">\tHyderabad is the city of Nizams located in the state of Telangana, India. It is located on the banks of the Musi River and on the Deccan Plateau. It is a historic city, known for its rich heritage, monuments and culture. It is a fast growing city and has now become one of the famous tourist destinations.Telugu and Urdu are widely spoken in Hyderabad, and most educated people speak Telugu, Urdu, Hindi and/or English.
+\n\n\tThis city is also considered as the twin city of Secunderabad and is a hub of software firms. The city of smiles, of lights, of a thousand faces, endearingly called the Pearl City, Hyderabad offers a variety of tourist attractions ranging from Heritage monuments, Lakes and Parks, Gardens and Resorts, Museums to delectable cuisine and a delightful shopping experience.
+\n\n\tHyderabad is the city of pearl as it is the biggest market of pearl jewellery in India. Mughal and Persian style of food is easily available in the restaurants.\n\n\tHyderabad is the permanent capital of the Indian state Telangana and temporarily the capital of the Indian state Andhra Pradesh.
+    </string>
+
+    <string name="history">\t In 1589, Muhammad Quli Qutb Shah, the ruler of Qutb Shahi dynasty, selected the present site of the city and named it "Bhaganagar" or "Bhāgyanagar" after Bhāgmathi, a local nautch (dancing) girl with whom he had fallen in love. She converted to Islam and adopted the title Hyder Mahal. The city was renamed Hyderabad in her honour. According to another source, the city was named after Haidar, the son of Quli Qutb Shah. Andrew Petersen, a scholar of Islamic architecture, says the city was originally called Baghnagar (city of gardens). Many dynasties came to this city and made various beautiful monuments and forts that reflect different architectural senses. Qutb Shahi Dynasty was the founder of the city and contributed a lot in the development of the city. After 1687, Mughal emperor Aurangzeb conquered this city. After the death of Aurangzeb in 1724, Asaf Jah who was the administrative controller of Viceroys handled the city.</string>
+
+    <!-- Category Names -->
+    <string name="category_historic">Historical</string>
+    <string name="category_amusement">Amusement</string>
+    <string name="category_religious">Religious</string>
+    <string name="category_parkLake">Parks n Lakes</string>
+    <string name="category_cuisine">Cuisines</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="contact">Contact : </string>
+    <string name="timings">Timings : </string>
+    <string name="fare">EntryFee : </string>
+
+    <string name="saveInstanceKey">ScreenData</string>
+    <string name="picKey">Pic</string>
+    <string name="locObjectKey">LocDetails</string>
+
+    <string name="history_filename">HistoricalMonuments.txt</string>
+    <string name="religious_filename">Religious.txt</string>
+    <string name="lakepark_filename">LakesNParks.txt</string>
+    <string name="amusement_filename">Amusements.txt</string>
+    <string name="cuisine_filename">Cuisine.txt</string>
+
+</resources>

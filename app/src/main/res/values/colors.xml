@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#673AB7</color>
+    <color name="colorPrimaryDark">#512DA8</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="item_layout_bg">#D1C4E9</color>
+    <color name="tab_text_color">#CFD8DC</color>
+
+    <!-- Text color for the desc -->
+    <color name="textColorDesc">#000000</color>
+
+    <!-- Text color for the details -->
+    <color name="textColorDetails">#2B3D4D</color>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_margin">2dp</dimen>
+
+    <dimen name="card_album_radius">10dp</dimen>
+    <dimen name="cover_image_width">200dp</dimen>
+    <dimen name="cover_image_height">200dp</dimen>
+    <dimen name="list_item_text_padding">5dp</dimen>
+    <dimen name="detail_item_padding">8dp</dimen>
+    <dimen name="detail_item_marigin">16dp</dimen>
+    <dimen name="normal_elevation">4dp</dimen>
+
+    <dimen name="normal_padding">8dp</dimen>
+    <dimen name="header_top_padding">20dp</dimen>
+    <dimen name="header_bottom_padding">10dp</dimen>
+
+    <dimen name="myAppBar_height">300dp</dimen>
+    <dimen name="collapsing_appbar_margin_start">48dp</dimen>
+    <dimen name="collapsing_appbar_margin_end">64dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="detailView_end_padding">20dp</dimen>
+    <dimen name="mainView_end_padding">20dp</dimen>
+
+</resources>
